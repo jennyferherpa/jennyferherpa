@@ -58,4 +58,4 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kevyntaylor&show_icons=true&theme=gotham" alt="jundrysoftware" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jennyferherpa&show_icons=true&theme=gotham" alt="jundrysoftware" />
